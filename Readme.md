@@ -1,0 +1,1 @@
+This repository demonstrates an export type issue with `@fullhuman/postcss-purgecss`. When the project is set to ESM (`"type": "module"` in `package.json`), the import of `@fullhuman/postcss-purgecss` has the incorrect type in `build/build.ts`.
