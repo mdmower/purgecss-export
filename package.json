@@ -5,14 +5,14 @@
     "build": "tsx --tsconfig build/tsconfig.json build/build.ts"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^6.0.0",
-    "@types/node": "^20.14.9",
-    "css-loader": "^7.1.2",
-    "postcss-loader": "^8.1.1",
+    "@fullhuman/postcss-purgecss": "^8.0.0",
+    "@types/node": "^22.19.13",
+    "css-loader": "^7.1.4",
+    "postcss-loader": "^8.2.1",
     "style-loader": "^4.0.0",
-    "ts-loader": "^9.5.1",
-    "tsx": "^4.16.0",
-    "typescript": "^5.5.2",
-    "webpack": "^5.92.1"
+    "ts-loader": "^9.5.4",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "webpack": "^5.105.3"
   }
 }
